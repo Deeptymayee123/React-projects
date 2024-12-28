@@ -27,7 +27,7 @@ const reactElement = {
     target: "_blank",
   },
   children: "Click me to visit google",
-};
+}; //make it according to us.
 const mainContent = document.querySelector("#root");
 //then we want to render it.
 
